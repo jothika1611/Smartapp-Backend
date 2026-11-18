@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.smartpay.wallet.controller.WalletIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.15 s -- in com.smartpay.wallet.controller.WalletIntegrationTest

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.smartpay.event.service.OutboxPublisherTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.824 s -- in com.smartpay.event.service.OutboxPublisherTest

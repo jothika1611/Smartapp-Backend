@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.smartpay.payment.controller.PaymentIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.16 s -- in com.smartpay.payment.controller.PaymentIntegrationTest

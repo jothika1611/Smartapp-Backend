@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.smartpay.event.EventOutboxIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 83.25 s -- in com.smartpay.event.EventOutboxIntegrationTest
